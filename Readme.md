@@ -1,4 +1,4 @@
-# BIN2iHEX convertet
+# BIN2iHEX converter
 
 # from binary file
 

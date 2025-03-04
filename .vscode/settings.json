@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "sdl_timer.h": "c",
+        "hvl_replay.h": "c",
+        "signal.h": "c",
+        "crtdefs.h": "c",
+        "pthread_signal.h": "c",
+        "*.tcc": "cpp",
+        "fstream": "cpp",
+        "istream": "cpp",
+        "ostream": "cpp",
+        "sstream": "cpp",
+        "streambuf": "cpp",
+        "iostream": "cpp",
+        "sdl.h": "c"
+    }
+}
